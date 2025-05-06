@@ -1,0 +1,125 @@
+clear
+dir
+user
+users
+clear
+apt update
+sudo apt update
+app upgrade
+apt upgrade
+sudo apt upgrade
+Ismod | grep vboxguest
+lsmod | grep vboxguest
+man
+man man
+clear
+tree
+sudo apt install tree
+clear
+tree
+clear
+dir
+ssh-keygen
+apt list
+apt install xubuntu-wallpapers-lucid
+sudo apt install xubuntu-wallpapers-lucid
+xubuntu-wallpapers-lucid
+wallpapers-lucid
+clear
+sudo apt remove  xubuntu-wallpapers-lucid
+clear
+apt install bzip2 tar
+sudo apt install bzip2 tar
+c;ear
+clear
+close
+pwd
+clear
+root
+clear
+whoami
+clear
+id
+clear
+w
+clear
+last
+clear
+Sudo adduser agus
+sudo adduser agus
+clear
+ssh\']keygen
+clear
+sudo ssh-keygen
+[200~cat $HOME/.ssh/*.pub
+su sudo cat $HOME/.ssh/*.pub
+sudo cat $HOME/.ssh/*.pub
+clear
+cd
+mkdir repogit
+dir
+cd repogit
+clear
+git clone git@github.com:Agustin-lozano-2302/TP_AySO.git
+cd
+sudo apt install git
+git clone git@github.com:Agustin-lozano-2302/TP_AySO.git
+ls
+rm =r TP_AySO
+rm -r TP_AySO
+rm -rf TP_AYSO
+CLEAR
+LS
+ls
+rm -rf TP_AYSO
+rm -rf TP_AySO
+list
+clear
+dir
+clear
+cd repogit
+clear
+git clone git@github.com:Agustin-lozano-2302/TP_AySO.git
+clear
+cd TP_AySO/
+C;EAR
+Clear
+clear
+pwd
+ls -l
+cat /etc/os-release
+man grep
+clear
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+clear
+whoami
+clear
+echo “Usuario=$(whoami)” > datos_usuario.txt
+cat datos_usuario.txt
+clear
+git add .
+git config --global user.email "agus.lozano.2302@gmail.com"
+git config --global user.name "Agustin-lozano-2302"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo información de CPU"
+aclear
+cat <<EOF >> README.md
+Alumno./'\[
+
+cat <<EOF >> README.md
+Alumno: Agustin Lozano
+División: 315
+Turno: Noche
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
